@@ -1,4 +1,4 @@
-package g150;
+package q150;
 
 import java.util.Scanner;
 
